@@ -1,0 +1,1985 @@
+{
+    "neubiberger": [
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "เรืองไกล อัคนิทัต",
+            "afaps": "6",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "คธาทิพย์ กุญชร ณ อยุธยา",
+            "nickname": "บ๊อบ",
+            "afaps": "6",
+            "service": "ทอ."
+        },
+        {
+            "rank": "ร.อ.",
+            "fullname": "ประสาท ขุนอินทร์",
+            "afaps": "6",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.ต.",
+            "fullname": "สุพัฒน์ เกษมุติ",
+            "afaps": "6",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "บุญช่วย สุภรสุข",
+            "nickname": "แดง",
+            "afaps": "7",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "ศุภพล ดวงแก้ว",
+            "nickname": "ป้อม",
+            "afaps": "7",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "เอนก โทณานนท์",
+            "afaps": "7",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "รังสรรค์ แจ้งเจนกิจ",
+            "nickname": "เปี๊ยก",
+            "afaps": "7",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.ศ.",
+            "fullname": "พูนลาภ เอี่ยมเจริญ",
+            "nickname": "เป๋า",
+            "afaps": "8",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "วิโรจน์ ระภาพันธ์",
+            "nickname": "ป้อม",
+            "afaps": "8",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "โสภณ พุกเนียม",
+            "afaps": "8",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "จิรศักดิ์ พรหมประยูร",
+            "nickname": "หน่อย",
+            "afaps": "8",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "อภิสิทธิ์ จุลโมกข์",
+            "nickname": "เล็ก",
+            "afaps": "9",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "ไพบูลย์ เจริญสมบัติ",
+            "nickname": "โจ",
+            "afaps": "9",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.ต.",
+            "fullname": "ไพรัช แผ้วสกุล",
+            "nickname": "แผ้ว",
+            "afaps": "9",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.ท.",
+            "fullname": "สุพจน์ สีสด",
+            "afaps": "9",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "สกลชัย เลิศฤทธิ์",
+            "afaps": "10",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "ธนิต อุดมพันธ์",
+            "afaps": "10",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "พัฒนพล คมภักดี",
+            "nickname": "อู๊ด",
+            "afaps": "10",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "ไพฑูรย์ ตันวิเชียร",
+            "afaps": "10",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "จุลจรูญ แสงงำพาล",
+            "afaps": "11",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "สมประสงค์ เปลี่ยนคง",
+            "nickname": "ม้า",
+            "afaps": "11",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "วัฒนา คล้ายจำนงค์",
+            "afaps": "11",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.ศ.",
+            "fullname": "อาจจิตต์ เอี่ยมระหงษ์",
+            "afaps": "11",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "พัฒนพล กานตรัตน์",
+            "nickname": "ตุ๋น",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "ไพรัช ศิริรัตน์",
+            "afaps": "11",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "อวยชัย แจ้งเร็ว",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "สุทัศน์ เสวีวัลลภ",
+            "nickname": "ขุน",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "เฉลิม ตรีเพชร",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "เมธา สังขวิจิตร",
+            "nickname": "เล็ก",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "ประสิทธิ์ เทพรักษ์",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "กิติวัจน์ เสนีย์วงศ์ ณ อยุธยา",
+            "nickname": "แอ๊ะ",
+            "afaps": "12",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "สุรศักดิ์ หมู่พยัคฆ์",
+            "nickname": "หมู",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "ปัญญา เชียงอารีย์",
+            "nickname": "ป้อม",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "บุญสืบ ประสิทธิ์",
+            "nickname": "เฉ่",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "สุภัทร จิตตประไพ",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "เจษฏา วิจารณ์",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "โสภณ สรรพนุเคราะห์",
+            "nickname": "โส",
+            "afaps": "13",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "ตรีทศ สนแจ้ง",
+            "nickname": "ตู่",
+            "afaps": "14",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "ดาเรศร์ เกษโกวิท",
+            "nickname": "ดาว",
+            "afaps": "14",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "ประทาน สิริสรรพ",
+            "afaps": "14",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.",
+            "fullname": "ประกิต ศกุณสิงห์",
+            "nickname": "ฟัก",
+            "afaps": "14",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "ภัทรศานต์ เขียวเซ็น",
+            "afaps": "14",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ท.รศ.",
+            "fullname": "นิกร ชำนาญกุล",
+            "nickname": "นิ๊กกี้",
+            "afaps": "15",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "ชูธัช แย้มมณฑา",
+            "nickname": "หนอม",
+            "afaps": "15",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "วีรศักดิ์ ตรีรัตน์พันธ์",
+            "afaps": "15",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "สุทัศน์ ชัยชูโชติ",
+            "afaps": "15",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.อ.",
+            "fullname": "เอกรัฐ ษรานุรักษ์",
+            "nickname": "เอก",
+            "afaps": "16",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "มนัส ลาภเจริญ",
+            "afaps": "16",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.ต.",
+            "fullname": "ปริญญา ปรัชญาพันธ์",
+            "nickname": "ปอง",
+            "afaps": "16",
+            "service": "ทอ."
+        },
+        {
+            "rank": "น.อ.",
+            "fullname": "สุวิทย์ เปรมศิริ",
+            "afaps": "16",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ขวัญบุญ จุลเปมะ",
+            "nickname": "แดง",
+            "afaps": "17",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สรศักดิ์ จันทรเฉลียว",
+            "nickname": "แอ๊ด",
+            "afaps": "17",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "บดินทร์ วิจารณ์",
+            "nickname": "ปั้ม",
+            "afaps": "17",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สิทธิพงศ์ ไกรสรรณ",
+            "nickname": "โต้ง",
+            "afaps": "17",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชาลี วัฒนวรรณะ",
+            "nickname": "ชาลี",
+            "afaps": "18",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สราวุธ ยอดอาวุธ",
+            "nickname": "ฟ้า",
+            "afaps": "18",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อัษฎาวุธ วัฒนางกูร",
+            "nickname": "ต่อ",
+            "afaps": "18",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วีรวุธ ภู่เย็น",
+            "nickname": "ตี๋",
+            "afaps": "19",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ไชยบูรณ์ สุขประเสริฐ",
+            "nickname": "แอ๊ะ",
+            "afaps": "19",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "มนตรี ศรีเมือง",
+            "nickname": "หมู",
+            "afaps": "19",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุรพล   พุทธมนต์",
+            "nickname": "ตุ่น",
+            "afaps": "20",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "บรรจบ ตีระเดชา",
+            "nickname": "อ๊อด",
+            "afaps": "20",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "มานัต   วงษ์วาทย์",
+            "nickname": "นัด",
+            "afaps": "20",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนพันธ์ หร่ายเจริญ",
+            "nickname": "แป๋ม",
+            "afaps": "21",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เรืองวิทย์   ศรีนวลนัด",
+            "nickname": "ปูด",
+            "afaps": "21",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธีรวุฒ สารพัฒน์",
+            "nickname": "ปาน",
+            "afaps": "21",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อนุกูล   อัครธรรม",
+            "nickname": "กูล",
+            "afaps": "22",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "โอภาส ใจเที่ยง",
+            "nickname": "โอ",
+            "afaps": "22",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เอนก นนทวงษ์",
+            "nickname": "เหนก",
+            "afaps": "22",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุภาพ เพิงมาก",
+            "nickname": "ภาพ",
+            "afaps": "23",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วิเชียร เรืองพระยา",
+            "nickname": "เชียร",
+            "afaps": "23",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "โชคชัย ศุภพัฒน์",
+            "afaps": "23",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ภูมิใจ  เลขสุนทรากร",
+            "nickname": "ต๋อง",
+            "afaps": "24",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมยศ มหรรณพ",
+            "nickname": "ยศ",
+            "afaps": "24",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "บัญชา สัตยาพันธุ์",
+            "nickname": "ตุ้ย",
+            "afaps": "24",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมหมาย ลีลิตธรรม",
+            "nickname": "รอง",
+            "afaps": "25",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมาน วิภามณีโรจน์",
+            "nickname": "ตุ้ม",
+            "afaps": "25",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุรศักดิ์ ภู่ทอง",
+            "nickname": "ยอง",
+            "afaps": "25",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุพิศ สว่างศรี",
+            "nickname": "ป๋อง",
+            "afaps": "26",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พัฒนพงศ์ พัฒนมงคล",
+            "nickname": "กบ",
+            "afaps": "26",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สรศักดิ์ ชาสมบัติ",
+            "nickname": "แขก",
+            "afaps": "26",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พงษ์ฤทธิ์ นิติวงศ์",
+            "nickname": "ตี๋",
+            "afaps": "27",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธัชพงษ์ นิลอุบล",
+            "nickname": "จี๊ด",
+            "afaps": "27",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อัครพล ทองสุรเดช",
+            "nickname": "โป๊ะ",
+            "afaps": "27",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมชาย โสภานนท์",
+            "nickname": "ชาย",
+            "afaps": "28",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชัยยง ปราบพรหม",
+            "nickname": "โต้ง",
+            "afaps": "28",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ยุคนธร พึ่งทองหล่อ",
+            "nickname": "ยุ",
+            "afaps": "28",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ราชัญ สุดหล้า",
+            "nickname": "เน",
+            "afaps": "29",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัฐวัฎ ถาวรสุขาวดี",
+            "nickname": "โด้",
+            "afaps": "29",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สหัส ซำศิริ",
+            "nickname": "ปื๊ด",
+            "afaps": "29",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เขมบดินทร์(บดินทร์)​ วงศ์หมึก",
+            "nickname": "ดุ๊ก",
+            "afaps": "30",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ทรงสวัสดิ์ ทรัพย์จำนงค์",
+            "nickname": "เหว่า",
+            "afaps": "30",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณรงค์ คำเนตร",
+            "nickname": "เก่ง",
+            "afaps": "30",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วีระพัฒน์ อ่างสุวรรณ์",
+            "nickname": "อ่าง",
+            "afaps": "31",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "โอฐศิลป์ นิลุบล",
+            "nickname": "โอฐ",
+            "afaps": "31",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "นิธินันท์ ตันวิไล",
+            "nickname": "ตั๋น",
+            "afaps": "31",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "จิระศักดิ์ อินทวงษ์",
+            "nickname": "อุ้ย",
+            "afaps": "32",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วิโชติ สังเมียน",
+            "nickname": "บอย",
+            "afaps": "32",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุทธิรักษ์ โสรัจจ์",
+            "nickname": "เมา",
+            "afaps": "32",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "นิรุต รัตนจรรยา",
+            "nickname": "รุต",
+            "afaps": "33",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ปริญ ยงปิยานนท์",
+            "nickname": "เป้ง",
+            "afaps": "33",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมภพ สุดตา",
+            "nickname": "ต้น",
+            "afaps": "33",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พิชญาณ อะสีติรัตน์",
+            "nickname": "กานต์",
+            "afaps": "34",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พงศ์พันธ์ แก้วจินดา",
+            "nickname": "แก้ว",
+            "afaps": "34",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เชษฐพัฒน์ ไกรขาว",
+            "nickname": "เชษ",
+            "afaps": "34",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พงศ์ชนก ศรีรักษ์",
+            "nickname": "อาร์ท",
+            "afaps": "35",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "บรรดิษฐ์ ศรีเจริญ",
+            "nickname": "โต้ง",
+            "afaps": "35",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ทรงคุณ ศรีเจริญ",
+            "nickname": "โย",
+            "afaps": "35",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พิเชษฐ บ้วนหลี",
+            "nickname": "เชษฐ",
+            "afaps": "36",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ปิยศักดิ์ สุเมตติกุล",
+            "nickname": "เอ้อ",
+            "afaps": "38",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณวรุณ ดีมา",
+            "nickname": "ถ้ำ",
+            "afaps": "38",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อารุญ พรมอินทร์",
+            "nickname": "เบิ้ม",
+            "afaps": "38",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สามารถ ว่องทรงเจริญ",
+            "nickname": "แท่ง",
+            "afaps": "39",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อาจณรงค์ กองนิล",
+            "nickname": "โอ๋",
+            "afaps": "39",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เวคิน เมฆคะ",
+            "nickname": "เว",
+            "afaps": "39",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เฉลิมพล ปรีดารัตน์",
+            "nickname": "เหลิม",
+            "afaps": "40",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนพล ราชฉวาง",
+            "nickname": "ตูน",
+            "afaps": "40",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "เดช ศิริคุปต์",
+            "nickname": "เดช",
+            "afaps": "40",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ทิฆัมพร ตันไสว",
+            "nickname": "นุก",
+            "afaps": "41",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "กิตติชัย ช่างเสนาะ",
+            "nickname": "ชาย",
+            "afaps": "41",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สมเกียรติ นาคกระแสร์",
+            "nickname": "ตือ",
+            "afaps": "41",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ไตรรงค์  ชัยสวัสดิ์",
+            "nickname": "โจ้",
+            "afaps": "42",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วุฒิศักดิ์ งาสง่า",
+            "nickname": "ตั้ม",
+            "afaps": "42",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วสันติ์ เชวงเศรษฐกุล",
+            "nickname": "สัน",
+            "afaps": "42",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อิทธิ ยุทธยานนท์",
+            "nickname": "โน้ท",
+            "afaps": "43",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ครองบุญ สิงหนาท",
+            "nickname": "ด้วง",
+            "afaps": "43",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "โรจน์ ชลานันต์",
+            "nickname": "โรจน์",
+            "afaps": "43",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อธิการ เชื้อกลาง",
+            "nickname": "เก่ง",
+            "afaps": "44",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนวัฒน์ กิจเจริญศักดิ์กุล",
+            "nickname": "เซ้นส์",
+            "afaps": "44",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชัยพร จรรยา",
+            "nickname": "เต้",
+            "afaps": "44",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พิชยา ศุภจารีรักษ์",
+            "nickname": "ท๊อป",
+            "afaps": "45",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อัครวัต กัลยาณมิตร",
+            "nickname": "อ้วน",
+            "afaps": "45",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัฐ เกาะม่วงหมู่",
+            "nickname": "นัด",
+            "afaps": "45",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พีระพงษ์ คล้ายริน",
+            "nickname": "ปอน",
+            "afaps": "46",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัยสิทธิ์ พันธ์เตี้ย",
+            "nickname": "ไผ่",
+            "afaps": "46",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "วิชญะ สมสุวรรณชัย",
+            "nickname": "ปอง",
+            "afaps": "46",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "บรรณสิน เปี่ยมพงศ์สานต์",
+            "nickname": "มาย",
+            "afaps": "47",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "รัฐวิชญ์ เปรมปรี",
+            "nickname": "บอย",
+            "afaps": "47",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "กษิดิ์เดช พุฒินาถ",
+            "nickname": "โป๊ป",
+            "afaps": "48",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชวนิทธิ เมืองพูล",
+            "nickname": "เชาวน์",
+            "afaps": "48",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัช ปลัดคุณ",
+            "nickname": "ณัช",
+            "afaps": "49",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนะศักดิ์ ลิ่มปิยะชาติ",
+            "nickname": "ตั้ง",
+            "afaps": "49",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัฐพล โค้วธนพงศ์",
+            "nickname": "ไท้",
+            "afaps": "50",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนภัทร ฝั้นมงคล",
+            "nickname": "แบงก์",
+            "afaps": "50",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ปัณณวิชญ์ ตีระวัฒนานนท์",
+            "nickname": "พัตเตอร์",
+            "afaps": "51",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สุวรรณศักดิ์ อินทรบุตร",
+            "nickname": "ไข่",
+            "afaps": "51",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณภัทร มัศยาอานนท์",
+            "nickname": "เอ็ม",
+            "afaps": "52",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธนัช อัฑฒพงษ์",
+            "nickname": "อุย",
+            "afaps": "52",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ศิรภัสร์ เทียนพันธุ์",
+            "nickname": "ตั้ง",
+            "afaps": "52",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ณัฐดนัย วิศิษฎ์โยธิน",
+            "nickname": "อั้ม",
+            "afaps": "53",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชาญณรงค์ โนราช",
+            "nickname": "ป๊อป",
+            "afaps": "54",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชัญญาวัจน์ สถิตภัทรสมบัติ",
+            "nickname": "จิต",
+            "afaps": "54",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ภูษิต พ่อค้าผล",
+            "nickname": "เกม",
+            "afaps": "55",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ธันชกร ยางนอก",
+            "nickname": "บอส",
+            "afaps": "55",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "สิรภพ ดิฐไชยทัศน์",
+            "nickname": "พี/เบิ้ม",
+            "afaps": "56",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "อินทัช อินทร์ทองน้อย",
+            "nickname": "นาย",
+            "afaps": "56",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ศุภกร สระแก้ว",
+            "nickname": "กล้า",
+            "afaps": "57",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ศุภวิชญ์  สกลเสาวภาคย์",
+            "nickname": "กรีน",
+            "afaps": "57",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "จีรทีปต์ ดีทั่ว",
+            "nickname": "ต้า",
+            "afaps": "58",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ปรุฬห์ ธานี",
+            "nickname": "โตโต้",
+            "afaps": "58",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "พรภวิษย์ จิรพัฒนพิบูล",
+            "nickname": "แบงค์",
+            "afaps": "59",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ชยาณันณต์ จิตต์แจ้งกุล",
+            "nickname": "มิกกี้",
+            "afaps": "59",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "กษิภัท  เราอุปถัมภ์",
+            "nickname": "แพค",
+            "afaps": "60",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ศิริโชค นักสิทธิ์",
+            "nickname": "เฟรม",
+            "afaps": "60",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "คณิน บุญนุช",
+            "nickname": "โฟกัส",
+            "afaps": "61",
+            "service": "ทอ."
+        },
+        {
+            "fullname": "ฮาริษ สุวินัย",
+            "nickname": "ฮาริษ",
+            "afaps": "61",
+            "service": "ทอ."
+        },
+        {
+            "rank": "พล.อ.",
+            "fullname": "ดุษฎี อุปถัมภ์",
+            "nickname": "ดุษ",
+            "afaps": "4",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ท.",
+            "fullname": "พัฒนศักดิ์ กรานเลิศ",
+            "nickname": "ป้อม",
+            "afaps": "7",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.อ.",
+            "fullname": "สุรพล เผื่อนอัยกา",
+            "nickname": "เผื่อน",
+            "afaps": "10",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ต.",
+            "fullname": "ธงชัย เทพารักษ์",
+            "nickname": "ธง",
+            "afaps": "10",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ท.",
+            "fullname": "พงศ์ศักดิ์ กรานเลิศ",
+            "nickname": "ปุ๊",
+            "afaps": "11",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ท.",
+            "fullname": "อดินันท์ จำเนียรวัย",
+            "nickname": "หนุ่ย",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พ.อ.(พ.)",
+            "fullname": "ศราวุธ เหราบัติ",
+            "nickname": "ต่อ",
+            "afaps": "-",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.อ.",
+            "fullname": "อรรถพจน์ คล่องตรวจโรค",
+            "nickname": "เปาะ",
+            "afaps": "-",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ต.",
+            "fullname": "สมศักดิ์ รัตนวดี",
+            "afaps": "12",
+            "service": "ทบ."
+        },
+        {
+            "rank": "ร.อ.",
+            "fullname": "อภิเชษฐ์ พิณสายแก้ว",
+            "nickname": "หน่อย",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พ.อ.(พ.)",
+            "fullname": "วิชาพร ฐิตวัฒน์",
+            "nickname": "ลูกแมว",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ต.",
+            "fullname": "ปัญญาวุฒิ พยัคฆนิธิ",
+            "nickname": "ทอม",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พ.อ.(พ.)",
+            "fullname": "เจอด พบสุข",
+            "nickname": "ต่อ",
+            "afaps": "13",
+            "service": "ทบ."
+        },
+        {
+            "rank": "ร.ท.",
+            "fullname": "ยุพน เทพวัลย์",
+            "nickname": "โอ๊ต",
+            "afaps": "-",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ต.",
+            "fullname": "พีระพงษ์ โตบุญมี",
+            "nickname": "โต",
+            "afaps": "-",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พล.ต.",
+            "fullname": "จักรา กรานเลิศ",
+            "nickname": "ป๋อม",
+            "afaps": "16",
+            "service": "ทบ."
+        },
+        {
+            "rank": "พ.อ.(พ.)",
+            "fullname": "พิชาพร ธนะภูมิ",
+            "nickname": "หนุ่ย",
+            "afaps": "16",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "เกษม จิโนมูล",
+            "nickname": "จีโน่",
+            "afaps": "17",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ยศ บุณยประคอง",
+            "nickname": "ตุ้ย",
+            "afaps": "18",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุรใจ จิตต์แจ้ง",
+            "nickname": "มิก",
+            "afaps": "19",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "รักศักดิ์ โรจน์พิมพ์พันธุ์",
+            "nickname": "ไก่",
+            "afaps": "20",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "พงศ์พิพัฒน์ ชมะนันทน์",
+            "nickname": "เอ๋",
+            "afaps": "21",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุรพล นันทิวัฒน์",
+            "nickname": "เจี๊ยบ",
+            "afaps": "21",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "จะนะ ปรีชา",
+            "nickname": "จะนะ",
+            "afaps": "22",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "จักรกฤษณ์ ตั้งจิตตาภรณ์",
+            "nickname": "แจ้กกี้",
+            "afaps": "23",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ธนาวัฒน์ แสงสุวรรณ",
+            "nickname": "แป๊ะ",
+            "afaps": "24",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "อภินันท์ จันดอนไผ่",
+            "nickname": "โบ๋",
+            "afaps": "25",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "จิรวัฒน์  พันธ์สวัสดิ์",
+            "nickname": "จิ๋ว",
+            "afaps": "25",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สมยศ ฉันทวรลักษณ์",
+            "nickname": "ยศ",
+            "afaps": "26",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ปริทัศน์ ตรีกาลนนท์",
+            "nickname": "ปู้",
+            "afaps": "27",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นิธิโรจน์ วรชาติธนะสาร",
+            "nickname": "ป้อม",
+            "afaps": "28",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "จิรายุ ศรีแกล้ว",
+            "nickname": "นอร์ธ",
+            "afaps": "28",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุเมธ มีบุญมาก",
+            "nickname": "แจ๊ค",
+            "afaps": "29",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ศรัณย์ รอดบุญธรรม",
+            "nickname": "โด่ง",
+            "afaps": "30",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ปัณณทัต ทีฆายุทธสกุล",
+            "nickname": "สงค์",
+            "afaps": "31",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นิธิพัทธ์ อ่อนสนิท",
+            "nickname": "หนุ่ย",
+            "afaps": "32",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุวัจชัย บุญสม",
+            "nickname": "ปิง",
+            "afaps": "33",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ไชยศิริ วิบูลมงคล",
+            "nickname": "สาม",
+            "afaps": "34",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "มัชฌิมะ สิทธิโห",
+            "nickname": "แป้ป",
+            "afaps": "35",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุรชาติ วรสุทธิ์",
+            "nickname": "ต้น",
+            "afaps": "35",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นราเทพ พฤกษหิรัญ",
+            "nickname": "โจ",
+            "afaps": "36",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "พิเชียรรัฐ ภารัญนิตย์",
+            "nickname": "นัท",
+            "afaps": "36",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "พงศ์พันธุ์ จันทะคัต",
+            "nickname": "หนุ่ม",
+            "afaps": "37",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "วิฑิต ไตรนภากุล",
+            "nickname": "บี",
+            "afaps": "37",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ธนพล นนทะโชติ",
+            "nickname": "เสือ",
+            "afaps": "38",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "รพีพงศ์ ทองฟุก",
+            "nickname": "ฟุก",
+            "afaps": "38",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ชนะศึก อัมพรมุนี",
+            "nickname": "เต๋า",
+            "afaps": "39",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ศักรนันทน์ อุ่นแสงจันทร์",
+            "nickname": "ยุ้ย",
+            "afaps": "39",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ธีรวิทย์ แก้วงามสอง",
+            "nickname": "ป๊อป",
+            "afaps": "40",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ชาตรี พูลมี",
+            "nickname": "ปุ้ย",
+            "afaps": "40",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "เจษฎา ทรัพย์รวงทอง",
+            "nickname": "เฮง",
+            "afaps": "41",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "อิทธิพล นามภูงา",
+            "nickname": "อิท",
+            "afaps": "41",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "อำนาจ แก่นโท",
+            "nickname": "ยอน",
+            "afaps": "42",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สมชัย สมสกุล",
+            "nickname": "อ๊อก",
+            "afaps": "42",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "เอกวีร์ กัลยาณมิตร",
+            "nickname": "อ้น",
+            "afaps": "43",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "กฤษณ์ จิตรประสงค์",
+            "nickname": "กฤษณ์",
+            "afaps": "44",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "กรกช บุญตนาชัย",
+            "nickname": "โป้",
+            "afaps": "45",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุริยา จริยพาณิชย์",
+            "nickname": "เก่ง",
+            "afaps": "45",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ภัทร เมฆทอง",
+            "nickname": "นัท",
+            "afaps": "46",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "เนติ แจ้งใจ",
+            "nickname": "เน",
+            "afaps": "47",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "กฤภากร สิทธิประเสริฐ",
+            "nickname": "ดล",
+            "afaps": "48",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "วีรวัฒน์ เจริญวงศ์",
+            "nickname": "เอ็ม",
+            "afaps": "48",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นที อานโพธิ์ทอง",
+            "nickname": "นัท",
+            "afaps": "49",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "เพรียวพันธ์ อดุลยาศักดิ์",
+            "nickname": "เดียร์",
+            "afaps": "49",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สิทธิเดช วัฒนธำรงค์",
+            "nickname": "เก๋า",
+            "afaps": "50",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ชัชชล ฤทธิมนตรี",
+            "nickname": "ตั๋ง",
+            "afaps": "50",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ปวริศร์ โยธาประเสริฐ",
+            "nickname": "ปั้น",
+            "afaps": "51",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นฤเบศร์ บุญคุ้ม",
+            "nickname": "สอง",
+            "afaps": "51",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ยศวริส อินทวิเชียร",
+            "nickname": "ยศ",
+            "afaps": "52",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ณัฐชัย จิตต์แจ้ง",
+            "nickname": "ม็อบ",
+            "afaps": "52",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ณัฐพล เจียมเรือน",
+            "nickname": "บอสส์",
+            "afaps": "53",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ปรัชญา กีนรี",
+            "nickname": "ฟลุ๊คฟลิ๊ค",
+            "afaps": "53",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "รหัท ดีเกษม",
+            "nickname": "โดม",
+            "afaps": "54",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ธัชนนท์ วังศิริไพศาล",
+            "nickname": "ไข่ต้ม",
+            "afaps": "54",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "จิรยุทธ์ เกิดแก่น",
+            "nickname": "เพชร",
+            "afaps": "55",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "วรพรต รักคุณ",
+            "nickname": "มอส",
+            "afaps": "55",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ฐานุ พบที่พึ่ง",
+            "nickname": "เอิ้ก",
+            "afaps": "56",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ธีรภัทร์ รัตนถิตะกุล",
+            "nickname": "มาร์ค",
+            "afaps": "56",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "คณิศร คชทรัพย์",
+            "nickname": "ป๊อป",
+            "afaps": "57",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นราวิชญ์ บุญหงส์",
+            "nickname": "เก้า",
+            "afaps": "57",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ฉัตรชนม์ ชุมทอง",
+            "nickname": "เต้ย",
+            "afaps": "58",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ศิวัช จูฑะพันธุ์",
+            "nickname": "เต๋า",
+            "afaps": "58",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "ภาคิน ศรแก้ว",
+            "nickname": "คิน",
+            "afaps": "59",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "นภเกตน์ สวนสุข",
+            "nickname": "ดิว",
+            "afaps": "59",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "พัฎชรพงศ์ คุณความดี",
+            "nickname": "เมิสร์",
+            "afaps": "60",
+            "service": "ทบ."
+        },
+        {
+            "fullname": "สุวิจักขณ์ สาระจันทร์",
+            "nickname": "กาญจน์",
+            "afaps": "60",
+            "service": "ทบ."
+        },
+        {
+            "rank": "ร.อ.",
+            "fullname": "วัชระ จตุรานน ร.น.",
+            "afaps": "3",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "วาที ศรีผดุง ร.น.",
+            "afaps": "3",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "เทวินทร์ มุ่งธัญญา ร.น.",
+            "afaps": "4",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "ไพศาล นภสินธุวงศ์ ร.น.",
+            "afaps": "5",
+            "service": "ทร."
+        },
+        {
+            "rank": "ร.ท.",
+            "fullname": "ทวนทอง ผูกบุญเชิด ร.น.",
+            "afaps": "6",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "เดชา อยู่พรต ร.น.",
+            "afaps": "7",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "กฤษฎา เฟื่องระบิล ร.น.",
+            "afaps": "7",
+            "service": "ทร."
+        },
+        {
+            "rank": "ร.อ.",
+            "fullname": "มนต์ชัย ชลวิศิษฐ์ ร.น.",
+            "afaps": "8",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "สามารถ จำปีรัตน์ ร.น.",
+            "afaps": "9",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "รพล คำคล้าย ร.น.",
+            "afaps": "10",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.ท.",
+            "fullname": "สุรศักดิ์ พุ่มพวง ร.น.",
+            "afaps": "11",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "ชุมนุม อาจวงษ์ ร.น.",
+            "afaps": "12",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "อมรเทพ ณ บางช้าง ร.น.",
+            "afaps": "13",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "ดำรงศักดิ์ ห้าวเจริญ ร.น.",
+            "afaps": "13",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "ณรงค์พล ณ บางช้าง ร.น.",
+            "afaps": "14",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.ต.",
+            "fullname": "ญาดา เนตรเจริญ ร.น.",
+            "afaps": "14",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.อ.",
+            "fullname": "พัลลภ ตมิศานนท์ ร.น.",
+            "afaps": "14",
+            "service": "ทร."
+        },
+        {
+            "rank": "พล.ร.ต.",
+            "fullname": "สุรพงษ์ สุขุมาสวิน ร.น.",
+            "afaps": "14",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วรรณลบ ทับทิม ร.น.",
+            "afaps": "18",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ภาณุ บุณยะวิโรจ ร.น.",
+            "afaps": "18",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วิโรจน์ ธันวรักษกิจ ร.น.",
+            "afaps": "18",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ปกรณ์ วานิช ร.น.",
+            "nickname": "กร",
+            "afaps": "19",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ภุชงค์ บุณยะวิโรจ ร.น.",
+            "afaps": "19",
+            "service": "ทร."
+        },
+        {
+            "fullname": "คงคา เปลี่ยนปาน ร.น.",
+            "afaps": "19",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พิษณุ สัญญทิตย์ ร.น.",
+            "afaps": "20",
+            "service": "ทร."
+        },
+        {
+            "fullname": "มนตรี จึงมั่นคง ร.น.",
+            "afaps": "20",
+            "service": "ทร."
+        },
+        {
+            "fullname": "นิพร สุขเกษตร ร.น.",
+            "nickname": "ตุ๊",
+            "afaps": "20",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เกรียงศักดิ์ พุกาวรรณ ร.น.",
+            "afaps": "21",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เสริม มั่นคง ร.น.",
+            "afaps": "21",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วันชัย ทรงเมตตา ร.น.",
+            "afaps": "21",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สุวิทย์ พูลทัศฐาน ร.น.",
+            "afaps": "22",
+            "service": "ทร."
+        },
+        {
+            "fullname": "อรรถพล เพชรฉาย ร.น.",
+            "nickname": "อ๋น",
+            "afaps": "22",
+            "service": "ทร."
+        },
+        {
+            "fullname": "จิรพล ว่องวิทย์ ร.น.",
+            "afaps": "23",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สาคร ปั่นเมืองปัก ร.น.",
+            "afaps": "23",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พิทักษ์ นิยาโส ร.น.",
+            "afaps": "24",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สุบิน บรรยง ร.น.",
+            "afaps": "24",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เสนอ เงินสลุง ร.น.",
+            "afaps": "25",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สุริยะ ภิญโญ ร.น.",
+            "afaps": "25",
+            "service": "ทร."
+        },
+        {
+            "fullname": "อิศรพันธุ์ สายโสภา ร.น.",
+            "afaps": "26",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พินิจ พิฬารัตน์ ร.น.",
+            "afaps": "26",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สุรเชษฎ์ บัวสุวรรณชัย ร.น.",
+            "afaps": "27",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เพชร จรจวบโชค ร.น.",
+            "afaps": "27",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สุรศักดิ์ ปานเกษม ร.น.",
+            "afaps": "28",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ก่อเกียรติ บุญปก ร.น.",
+            "afaps": "28",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ปราโมทย์ นงค์ทอง ร.น.",
+            "nickname": "ปุ๊",
+            "afaps": "29",
+            "service": "ทร."
+        },
+        {
+            "fullname": "บุญโฮม บำรุงภักดี ร.น.",
+            "afaps": "29",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วิทยา ปัญญวรญาณ ร.น.",
+            "nickname": "ตู้",
+            "afaps": "30",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สมจิตร หลำวรรณะ ร.น.",
+            "afaps": "30",
+            "service": "ทร."
+        },
+        {
+            "fullname": "นาวิน วงศ์ยะลา ร.น.",
+            "afaps": "31",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ภูษิต เกิดในมงคล ร.น.",
+            "nickname": "เก่ง",
+            "afaps": "31",
+            "service": "ทร."
+        },
+        {
+            "fullname": "นที ศรีบูรณ์ ร.น.",
+            "afaps": "31",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ฐิกิพงษ์ จินุพงษ์ ร.น.",
+            "afaps": "33",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ประจักษ์ สกุลพรรณ์ ร.น.",
+            "afaps": "33",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ปัณณทัต สิงหเสนี ร.น.",
+            "nickname": "กานต์",
+            "afaps": "33",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วีรุตม์ ฉายะจินดา ร.น.",
+            "nickname": "ม้า",
+            "afaps": "36",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ณัฐวุฒิ คล่องนาวา ร.น.",
+            "nickname": "ต้น",
+            "afaps": "36",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เจริญ รัตนหิรัญ ร.น.",
+            "nickname": "หนุ่ม",
+            "afaps": "37",
+            "service": "ทร."
+        },
+        {
+            "fullname": "คทายุทธ โพธิ์ทอง ร.น.",
+            "nickname": "เท่ง",
+            "afaps": "38",
+            "service": "ทร."
+        },
+        {
+            "fullname": "เอกชัย โจมพล ร.น.",
+            "nickname": "เต๊า",
+            "afaps": "39",
+            "service": "ทร."
+        },
+        {
+            "fullname": "กิตติพงษ์ ปิยะวรรณโณ ร.น.",
+            "nickname": "โบ",
+            "afaps": "40",
+            "service": "ทร."
+        },
+        {
+            "fullname": "กฤษณ์ ทวีลาภพูนพล ร.น.",
+            "afaps": "41",
+            "service": "ทร."
+        },
+        {
+            "fullname": "สราวุฒิ สายทวี ร.น.",
+            "nickname": "เล็ก",
+            "afaps": "42",
+            "service": "ทร."
+        },
+        {
+            "fullname": "กรกานต์ วรรณภักตร์ ร.น.",
+            "nickname": "มาร์ช",
+            "afaps": "43",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พารณ แสงแก้ว ร.น.",
+            "nickname": "เมฆ",
+            "afaps": "44",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ชลวิทย์ ไตรย์พืชน์ ร.น.",
+            "nickname": "นนท์",
+            "afaps": "46",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พงศ์พิสิฐ ไล้ทอง ร.น.",
+            "nickname": "ฟ่าง",
+            "afaps": "47",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ชัยธวัช วานิชกร ร.น.",
+            "nickname": "กู่",
+            "afaps": "48",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พงษ์เทพ สันทัด ร.น.",
+            "nickname": "เก้ง",
+            "afaps": "49",
+            "service": "ทร."
+        },
+        {
+            "fullname": "มรกต บุญเดช ร.น.",
+            "nickname": "กล้า",
+            "afaps": "50",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ญาณพัฒน์ รอบจังหวัด ร.น.",
+            "nickname": "เติร์ก",
+            "afaps": "53",
+            "service": "ทร."
+        },
+        {
+            "fullname": "กุลพงศ์ วงหะกูล ร.น.",
+            "nickname": "เอิท",
+            "afaps": "54",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ณัฐภัทร ทนันขัติ ร.น.",
+            "nickname": "อั๋น",
+            "afaps": "55",
+            "service": "ทร."
+        },
+        {
+            "fullname": "รชฤทธิ์ จำปาหวาย ร.น.",
+            "nickname": "ไทม์",
+            "afaps": "56",
+            "service": "ทร."
+        },
+        {
+            "fullname": "วัชรวีร์ สุขสุวรรณ์ ร.น.",
+            "nickname": "ไอซ์",
+            "afaps": "57",
+            "service": "ทร."
+        },
+        {
+            "fullname": "พีรวัส ขำอ่วม ร.น.",
+            "nickname": "เติ้ล",
+            "afaps": "58",
+            "service": "ทร."
+        },
+        {
+            "fullname": "ธนพล ชุ่มแจ่ม",
+            "nickname": "บิว",
+            "afaps": "60",
+            "service": "ทร."
+        }
+    ]
+}
